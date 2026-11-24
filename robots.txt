@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alex-carter-notes.github.io/sitemap.xml
